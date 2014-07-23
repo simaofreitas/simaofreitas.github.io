@@ -2,6 +2,7 @@
 * Replace all SVG images with inline SVG
 */
 jQuery('img.svg').each(function(){
+    $('.svg').svgInject();
     var $img = jQuery(this);
     var imgID = $img.attr('id');
     var imgClass = $img.attr('class');

@@ -17,11 +17,20 @@ html {
 }
 
 .twitter {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
 }
 
 .github {
-  width: 30px;
-  height: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+i {
+  color: #fff;
+  font-size: 32px;
+}
+
+i:hover {
+  color: #ccc;
 }
