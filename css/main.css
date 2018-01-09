@@ -14,14 +14,13 @@ html {
 
 .profile-links {
   text-align: center;
+  font-size: 2em;
 }
 
-i {
-  color: #fff;
-  font-size: 32px;
-  margin-right: 5px;
+a {
+  color: #FFFFFF;
 }
 
-i:hover {
-  color: #ccc;
-} 
+a:hover {
+  color: #D1D1D1;
+}
